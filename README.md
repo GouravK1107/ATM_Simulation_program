@@ -7,6 +7,10 @@ A simple yet functional console-based ATM simulation built in pure Python. Mimic
 
 ---
 
+> 🎓 **Project Type: Learning**
+>
+> This project is built for learning purposes. I created it to understand and practice new concepts, tools, and technologies. The code may not follow production-level standards, and it's a work in progress as I keep exploring and improving.
+
 ## 📖 About
 
 This project simulates core ATM workflows end-to-end in a single Python script — built as a fundamentals project to practice conditionals, loops, functions, time delays, and dictionary-based data handling, structured the way a real ATM would behave. I built it on my own after learning python.
